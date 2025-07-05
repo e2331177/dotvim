@@ -49,3 +49,6 @@
 [submodule "pack/default/start/dim"]
 	path = pack/default/start/dim
 	url = https://github.com/jeffkreeftmeijer/vim-dim.git
+[submodule "pack/default/start/BufOnly"]
+	path = pack/default/start/BufOnly
+	url = https://github.com/vim-scripts/BufOnly.vim.git
